@@ -1,6 +1,11 @@
 # MyDay – TODO App quản lý công việc cá nhân
 **Sinh viên:** Văn Ngọc Hân – **MSSV:** 31241027313
 
+## Link bài làm
+- **GitHub (source code):** [MyDay-TODO-App](https://github.com/han060414/MyDay-TODO-App.)
+- **Website (GitHub Pages):** [Trải nghiệm MyDay](https://han060414.github.io/MyDay-TODO-App./)
+
+
 ## 1. Giới thiệu
 Ứng dụng web quản lý công việc cá nhân, giao diện responsive xanh dương pastel. Công nghệ HTML5, CSS3, JavaScript thuần và IndexedDB (cơ sở dữ liệu NoSQL tích hợp trong trình duyệt).
 
